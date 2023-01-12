@@ -30,10 +30,10 @@ body{
 .rightSide h1{
     color: #f423b5;
     font-size: 32px;
-    text-shadow: 0 0 10px #fff, 0 0 20px rgb(227, 148, 210), 0 0 30px rgb(245, 38, 159), 0 0 40px #d46fa1, 0 0 70px #d23d87, 0 0 80px #f83d9a, 0 0 100px #e46da9, 0 0 150px #fff;
+    text-shadow: 0 0 10px rgb(139, 26, 73), 0 0 20px rgb(230, 57, 120), 0 0 30px rgb(245, 38, 159), 0 0 40px #ca2d7b, 0 0 70px #cc327f, 0 0 80px #d5257d, 0 0 100px #d12a7d, 0 0 150px rgb(250, 3, 106);
 }
 .rightSide h2{
-    color: rgb(201, 49, 166);
+    color: rgb(234, 51, 136);
     margin: 20px auto 10px;
     font-size: 25px;
 }

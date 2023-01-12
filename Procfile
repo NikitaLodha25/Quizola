@@ -1,1 +1,0 @@
-web gunicorn Quizola.wsgi:application --log-file -
